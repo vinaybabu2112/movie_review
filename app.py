@@ -1,14 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 12 13:47:24 2023
-
-@author: rohit
-"""
-
-
 import pandas as pd
-# import os
-# os.chdir("C://Users/rohit/Documents/2023/capstone projects/IMDB movie review dataset")
 from flask import Flask, request, jsonify, render_template
 import joblib
 from data_processing_and_features import text_data_cleaning, tfidf_features_transform
