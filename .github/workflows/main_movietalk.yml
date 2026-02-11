@@ -73,4 +73,6 @@ jobs:
         with:
           app-name: 'movietalk'
           slot-name: 'Production'
+          package: .
+
           
