@@ -3,8 +3,8 @@ regex
 werkzeug
 numpy
 scikit-learn
-nltk
 xgboost
 pandas
 flask
+nltk
 
