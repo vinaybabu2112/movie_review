@@ -6,5 +6,4 @@ scikit-learn
 xgboost
 pandas
 flask
-nltk
 
