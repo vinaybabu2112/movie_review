@@ -1,10 +1,10 @@
-joblib==1.1.1
-regex==2022.7.9
-werkzeug==2.2.2
-numpy==1.23.5
-scikit-learn==1.2.2
+joblib
+regex
+werkzeug
+numpy
+scikit-learn
 nltk
-xgboost==1.7.5
+xgboost
 pandas
 flask
 
